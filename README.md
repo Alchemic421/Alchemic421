@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alchemic421
+- 👀 I’m interested in learning Python and C#.
+- 🌱 I’m currently learning Python.
